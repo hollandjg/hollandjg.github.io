@@ -1,4 +1,4 @@
-I'm John Gerrard Holland, an English IT & management consultant.
+I'm John Gerrard Holland, a British IT & management consultant.
 
 I live in Germany and work for a small consulting firm based in Munich.
 
