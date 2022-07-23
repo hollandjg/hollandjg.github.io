@@ -1,4 +1,4 @@
-I'm John Gerrard Holland, a British-German physicist with experience in management consultantancy and IT. I'm passionate about climate and sustainability.
+I'm John Gerrard Holland, a British-German physicist with experience in data science, management consultantancy and IT. I'm passionate about climate and sustainability. I work at the [Brown University Center for Computation and Visualization](https://ccv.brown.edu).
 
 I live in Massachusetts, USA, and my home base is in Munich, Germany.
 
