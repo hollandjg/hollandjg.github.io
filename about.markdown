@@ -14,7 +14,7 @@ From 2016 to 2021 I was a management and IT consultant at [Basycon Unternehmensb
 
 <!-- TODO: move these to a projects page -->
 
-Since 2022 I've been a research software engineer at at [Brown University's Center for Computation and Visualization](https://ccv.brown.edu). Since January 2024 I manage a team of software engineers and data scientists, supporting cutting edge research at Brown University. I provide training and guidance for my team, and assist the directors of the center with project acquisition and management. I've worked on projects including [automating the process of running psychological experiements][autora], AI alignment, [analyzing remote sensing data from Earth observation satellites][ice-floes], and building a [website framework][project-portal] for local and state governments in the USA to publicise their public policy initiatives.
+Since 2022 I've been a research software engineer at at [Brown University's Center for Computation and Visualization](https://ccv.brown.edu). As of January 2024, I manage a team of software engineers and data scientists, supporting cutting edge research at Brown University. I provide training and guidance for my team, and assist the directors of the center with project acquisition and management. I've worked on projects including [automating the process of running psychological experiements][autora], AI alignment, [analyzing remote sensing data from Earth observation satellites][ice-floes], and building a [website framework][project-portal] for local and state governments in the USA to publicise their public policy initiatives.
 
 [autora]: https://github.com/autoresearch/autora
 [ice-floes]: https://github.com/wilhelmuslab/ice-floe-tracker-pipeline
