@@ -4,7 +4,7 @@ source "https://rubygems.org"
 
 # gem "rails"
 
-gem "jekyll", "~> 4.3"
+gem "jekyll", "~> 4.4"
 gem "bundler", "~> 2.5"
 gem "logger"
 gem "csv"
