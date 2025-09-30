@@ -6,4 +6,4 @@ layout: home
 title: Home
 ---
 
-I'm John Gerrard Holland, a British-German research software engineer at [Brown University's Center for Computation and Visualization](https://ccv.brown.edu). 
+John G. Holland is a British-German research software engineer at [Brown University's Center for Computation and Visualization](https://ccv.brown.edu). 
