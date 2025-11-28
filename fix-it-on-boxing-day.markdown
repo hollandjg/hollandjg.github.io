@@ -9,26 +9,10 @@ permalink: /fix-it-on-boxing-day/
 
 Our debut album.
 
-1. **Gratuitous Intro**
-   <audio title="Gratuitous intro" style="vertical-align: middle;" controls>
-     <source src="gratuitous-intro.m4a" type="audio/aac">
-     <source src="gratuitous-intro.mp3" type="audio/mpeg">
-   Your browser does not support the audio element.
-   </audio>
-
-2. **In A Moosey Mood** 
-   <audio title="In A Moosey Mood" style="vertical-align: middle;" controls>
-     <source src="in-a-moosey-mood.m4a" type="audio/aac">
-     <source src="in-a-moosey-mood.mp3" type="audio/mpeg">
-   Your browser does not support the audio element.
-   </audio>
-
-3. **God Rest Ye Jazzy Cats** 
-   <audio title="God Rest Ye Jazzy Cats" style="vertical-align: middle;" controls>
-     <source src="god-rest-ye-jazzy-cats.m4a" type="audio/aac">
-     <source src="god-rest-ye-jazzy-cats.mp3" type="audio/mpeg">
-   Your browser does not support the audio element.
-   </audio>
+|__Title__|__Play__|
+|*Gratuitous Intro*|<audio title="Gratuitous intro" style="vertical-align: middle; horizontal-align:center;" controls><source src="gratuitous-intro.m4a" type="audio/aac"><source src="gratuitous-intro.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>|
+|*In A Moosey Mood*|<audio title="In A Moosey Mood" style="vertical-align: middle;" controls>     <source src="in-a-moosey-mood.m4a" type="audio/aac">     <source src="in-a-moosey-mood.mp3" type="audio/mpeg">   Your browser does not support the audio element.   </audio>|
+|*God Rest Ye Jazzy Cats*|<audio title="God Rest Ye Jazzy Cats" style="vertical-align: middle;" controls>     <source src="god-rest-ye-jazzy-cats.m4a" type="audio/aac">     <source src="god-rest-ye-jazzy-cats.mp3" type="audio/mpeg">   Your browser does not support the audio element.   </audio>|
 
 Mark Walker and John Holland are the jazz duo **Fix It In Post**.
 We play bass and piano.
