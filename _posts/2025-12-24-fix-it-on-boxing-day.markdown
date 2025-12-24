@@ -11,6 +11,8 @@ A debut album from **Fix It In Post**. Inspired by the winter solstice.
 |2. *In A Moosey Mood*, after Duke Ellington|<audio title="In A Moosey Mood" style="vertical-align: middle;" controls><source src="https://storage.googleapis.com/fix-it-on-boxing-day/in-a-moosey-mood.m4a" type="audio/x-m4a"><source src="https://storage.googleapis.com/fix-it-on-boxing-day/in-a-moosey-mood.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>|
 |3. *God Rest Ye Jazzy Cats*, traditional|<audio title="God Rest Ye Jazzy Cats" style="vertical-align: middle;" controls><source src="https://storage.googleapis.com/fix-it-on-boxing-day/god-rest-ye-jazzy-cats.m4a" type="audio/x-m4a"><source src="https://storage.googleapis.com/fix-it-on-boxing-day/god-rest-ye-jazzy-cats.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>|
 |4. *Walking In the Air* by Howard Blake|<audio title="Walking In the Air" style="vertical-align: middle;" controls><source src="https://storage.googleapis.com/fix-it-on-boxing-day/walking-in-the-air.m4a" type="audio/x-m4a"><source src="https://storage.googleapis.com/fix-it-on-boxing-day/walking-in-the-air.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>|
+|5. *Stille Nacht*, Franz Xaver Gruber, arr. Uwe Korn|<audio title="Stille Nacht" style="vertical-align: middle;" controls><source src="https://storage.googleapis.com/fix-it-on-boxing-day/stille-nacht.m4a" type="audio/x-m4a"><source src="https://storage.googleapis.com/fix-it-on-boxing-day/stille-nacht.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>|
+
 
 Mark Walker and John Holland are the jazz duo **Fix It In Post**.
 Mark plays bass and John piano. 
