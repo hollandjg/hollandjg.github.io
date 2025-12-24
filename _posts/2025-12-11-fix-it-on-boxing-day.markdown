@@ -10,7 +10,7 @@ A debut album from **Fix It In Post**. Inspired by the winter solstice.
 The release is slated for December 24th, exclusively here!
 
 |__Title__|__Play__|
-|*Gratuitous Intro*|<audio title="Gratuitous intro" style="vertical-align: middle; horizontal-align:center;" controls><source src="https://storage.googleapis.com/fix-it-on-boxing-day/gratuitous-intro.m4a" type="audio/x-m4a"><source src="https://storage.googleapis.com/fix-it-on-boxing-day/gratuitous-intro.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>|
+|*Gratuitous Intro*|<audio title="Gratuitous intro" style="vertical-align: middle; horizontal-align:center;" controls><source src="https://storage.googleapis.com/fix-it-on-boxing-day/gratuitous-intro.m4a" type="audio/mp4"><source src="https://storage.googleapis.com/fix-it-on-boxing-day/gratuitous-intro.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>|
 |*In A Moosey Mood*|*Coming soon!*|
 |*God Rest Ye Jazzy Cats*|*Coming soon!*|
 |*Walking In The Air*|*Coming soon!*|
