@@ -18,5 +18,5 @@ The release is slated for December 24th, exclusively here!
 
 Mark Walker and John Holland are the jazz duo **Fix It In Post**.
 Mark plays bass and John piano. 
-And we take it *very* seriously.
+And they take it *very* seriously.
 
