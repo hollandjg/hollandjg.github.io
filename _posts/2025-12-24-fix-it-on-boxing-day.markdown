@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Fix It On Boxing Day
+permalink: fix-it-on-boxing-day
 ---
 A debut album from **Fix It In Post**. Inspired by the winter solstice.
 
