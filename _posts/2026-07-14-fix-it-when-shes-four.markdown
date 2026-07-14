@@ -1,0 +1,21 @@
+---
+layout: post
+title: Fix It When She's Four
+permalink: fix-it-when-shes-four
+---
+They're at it again. This is the second album from **Fix It In Post**. Inspired by sleepless nights.
+
+![Mark and John in front of a swamp. Mark has a tiny cute wolf on his shoulder and is wearing a green tee-shirt and baseball cap. John is smiling like a lunatic and is holding a colorful rattle, wearing a white shirt and a safari hat. All of their friends are in the background. Everyone is made of felt.](https://storage.googleapis.com/fix-it-when-shes-four/cover.jpg)
+
+|__Track__|__Play__|
+|1. *Gratuitous Intro*|<audio title="Gratuitous intro" style="vertical-align: middle; horizontal-align:center;" controls><source src="https://storage.googleapis.com/fix-it-when-shes-four/gratuitous-intro.m4a" type="audio/mp4"><source src="https://storage.googleapis.com/fix-it-when-shes-four/gratuitous-intro.mp3" type="audio/mpeg"><source src="https://storage.googleapis.com/fix-it-when-shes-four/gratuitous-intro.aif" type="audio/aiff">Your browser does not support the audio element.</audio>|
+|2. *Brahms But Better*, after Johannes Brahms|<audio title="Brahms But Better" style="vertical-align: middle;" controls><source src="https://storage.googleapis.com/fix-it-when-shes-four/brahms-but-better.m4a" type="audio/mp4"><source src="https://storage.googleapis.com/fix-it-when-shes-four/brahms-but-better.mp3" type="audio/mpeg"><source src="https://storage.googleapis.com/fix-it-when-shes-four/brahms-but-better.aif" type="audio/aiff">Your browser does not support the audio element.</audio>|
+|3. *The Desert And The Parched Land*, by Dave Brubeck|<audio title="The Desert And The Parched Land" style="vertical-align: middle;" controls><source src="https://storage.googleapis.com/fix-it-when-shes-four/the-desert-and-the-parched-land.m4a" type="audio/mp4"><source src="https://storage.googleapis.com/fix-it-when-shes-four/the-desert-and-the-parched-land.mp3" type="audio/mpeg"><source src="https://storage.googleapis.com/fix-it-when-shes-four/the-desert-and-the-parched-land.aif" type="audio/aiff">Your browser does not support the audio element.</audio>|
+|4. *Rainbow Connection* by Paul Williams & Kenneth Ascher|<audio title="Rainbow Connection" style="vertical-align: middle;" controls><source src="https://storage.googleapis.com/fix-it-when-shes-four/rainbow-connection.m4a" type="audio/mp4"><source src="https://storage.googleapis.com/fix-it-when-shes-four/rainbow-connection.mp3" type="audio/mpeg"><source src="https://storage.googleapis.com/fix-it-when-shes-four/rainbow-connection.aif" type="audio/aiff">Your browser does not support the audio element.</audio>|
+|5. *You've Got A Friend In My Arcade*, by Randy Newman|<audio title="You've Got A Friend In My Arcade" style="vertical-align: middle;" controls><source src="https://storage.googleapis.com/fix-it-when-shes-four/youve-got-a-friend-in-my-arcade.m4a" type="audio/mp4"><source src="https://storage.googleapis.com/fix-it-when-shes-four/youve-got-a-friend-in-my-arcade.mp3" type="audio/mpeg"><source src="https://storage.googleapis.com/fix-it-when-shes-four/youve-got-a-friend-in-my-arcade.aif" type="audio/aiff">Your browser does not support the audio element.</audio>|
+|6. *Dance Of The Stevia Raisin Monster*, by Pyotr Ilyich Tchaikovsky|<audio title="Dance Of The Stevia Raisin Monster" style="vertical-align: middle;" controls><source src="https://storage.googleapis.com/fix-it-when-shes-four/dance-of-the-stevia-raisin-monster.m4a" type="audio/mp4"><source src="https://storage.googleapis.com/fix-it-when-shes-four/dance-of-the-stevia-raisin-monster.mp3" type="audio/mpeg"><source src="https://storage.googleapis.com/fix-it-when-shes-four/dance-of-the-stevia-raisin-monster.aif" type="audio/aiff">Your browser does not support the audio element.</audio>|
+|**Full Album**| [MP3](https://storage.googleapis.com/fix-it-when-shes-four/fix-it-when-shes-four-mp3.zip) [M4A](https://storage.googleapis.com/fix-it-when-shes-four/fix-it-when-shes-four-m4a.zip) [AIFF (lossless)](https://storage.googleapis.com/fix-it-when-shes-four/fix-it-when-shes-four-aif.zip)|
+
+Mark Walker and John Holland are the jazz duo **Fix It In Post**.
+Mark plays bass and John piano. 
+And they take it *very* seriously.
