@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fix It in the Moonlight (working title)
+title: Fix It in the Moonlight
 permalink: fix-it-in-the-moonlight
 ---
 Here they go again. This is the third album from **Fix It In Post**. Inspired by the lengthening autumn nights. 
