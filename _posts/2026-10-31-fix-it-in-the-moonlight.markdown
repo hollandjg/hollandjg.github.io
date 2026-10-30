@@ -23,3 +23,15 @@ And they take it *very* seriously.
   <source src="https://pub-0376fc9017734b468fe27b7c94f80b10.r2.dev/fix-it-in-the-moonlight/trailer.mov">
   Your browser does not support the video element.
 </video>
+
+## Praise for [*Fix It When She's Four*](/fix-it-when-shes-four)
+
+★★★★★ Da! – *Small person*
+
+★★★★☆ It's good at keeping vermin away. – *Concerned resident*
+
+★★☆☆☆ The first two tracks, well you could at least listen to them. – *Anonymous*
+
+★★★☆☆ I liked it when it was finished. – *Anonymous*
+
+★★★★★ Yes, I'll give it five stars. Now would you turn it off? Thank you! – *Researcher, Cambridge, MA*
