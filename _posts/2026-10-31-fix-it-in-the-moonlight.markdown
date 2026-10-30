@@ -18,3 +18,8 @@ Here they go again. This is the third album from **Fix It In Post**. Inspired by
 Mark Walker and John Holland are the jazz duo **Fix It In Post**.
 Mark plays bass and John piano. 
 And they take it *very* seriously.
+
+<video controls playsinline preload="metadata" style="max-width: 100%; height: auto;" aria-label="Fix It In The Moonlight trailer">
+  <source src="https://pub-0376fc9017734b468fe27b7c94f80b10.r2.dev/fix-it-in-the-moonlight/trailer.mov">
+  Your browser does not support the video element.
+</video>
