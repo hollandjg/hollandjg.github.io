@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Fix It in the Moonlight
+title: Fix It In The Moonlight
 permalink: fix-it-in-the-moonlight
 ---
-Here they go again. This is the third album from **Fix It In Post**. Inspired by the lengthening autumn nights. 
+Here they go again. This is the third album from **Fix It In Post**. Inspired by autumn nights. 
 
 ![Mark and John in front of a moonlit forest. Mark is wearing a dark cape, tie, and hat like some kind of 19th century wannabe-vampire. John has werewolf ears coming out of his safari hat. The full moon is visible through the trees.](https://pub-0376fc9017734b468fe27b7c94f80b10.r2.dev/fix-it-in-the-moonlight/cover.png)
 
